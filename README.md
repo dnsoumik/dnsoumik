@@ -54,6 +54,6 @@ A Python-based scheduler script to dynamically update DNS records based on publi
 ## 🤝 Connect with Me
 
 - **LinkedIn**: [Soumik Debnath](https://www.linkedin.com/in/dnsoumik)
-- **Email**: [dnsoumik@example.com](mailto:dnsoumik.org@gmail.com)
+- **Email**: [dnsoumik.org@gmail.com](mailto:dnsoumik.org@gmail.com)
 
 I’m always open to collaborating on exciting projects or discussing new ideas. Let’s connect and innovate together!
