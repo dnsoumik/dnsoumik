@@ -1,4 +1,4 @@
-# Soumik Debnath (dnsoumik) 👋
+# Engr. Soumik Debnath (dnsoumik) 👋
 
 **Full Stack Software Engineer | B.Tech in Computer Science**
 
