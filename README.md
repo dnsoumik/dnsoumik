@@ -9,7 +9,7 @@ Welcome to my GitHub! I’m Engr. Soumik Debnath, a passionate Engineer speciali
 ## 🛠️ Skills & Technologies
 
 - **Frontend**: Native Android, Flutter, Angular
-- **Backend**: Java(Spring), Python (Tornado, Flask, Django), JavaScript (ExpressJS)
+- **Backend**: Java(Spring), Python (Tornado, Flask), JavaScript (ExpressJS)
 - **Databases**: MySQL, PostgreSQL, MongoDB, Cassandra, Milvus
 - **DevOps**: Nginx, Docker, AWS, Git & GitLab
 - **Machine Learning & Data Science**: TensorFlow, Google TEXT ML Kit
