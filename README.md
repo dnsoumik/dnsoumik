@@ -2,15 +2,15 @@
 
 **Full Stack Software Engineer | B.Tech in Computer Science**
 
-Welcome to my GitHub! I’m Soumik Debnath, a passionate developer specializing in Full Stack Engineering, DevOps, and cloud solutions. My projects span a range of technologies, from building scalable e-commerce backends and real-time quiz systems to implementing neural networks and fuzzy logic models. Here, you’ll find a variety of projects that showcase my skills and dedication to efficient, robust, and innovative software solutions.
+Welcome to my GitHub! I’m Engr. Soumik Debnath, a passionate Engineer specializing in Full Stack Engineering, DevOps, and cloud solutions. My projects span a range of technologies, from building scalable e-commerce backends and real-time quiz systems to implementing neural networks and fuzzy logic models. Here, you’ll find a variety of projects that showcase my skills and dedication to efficient, robust, and innovative software solutions.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-- **Frontend**: Angular, HTML, CSS, TypeScript
-- **Backend**: Python (Tornado, Flask, Django), Java
-- **Databases**: MongoDB, Milvus
+- **Frontend**: Native Android, Flutter, Angular
+- **Backend**: Java(Spring), Python (Tornado, Flask, Django), JavaScript (ExpressJS)
+- **Databases**: MySQL, PostgreSQL, MongoDB, Cassandra, Milvus
 - **DevOps**: Nginx, Docker, AWS, Git & GitLab
 - **Machine Learning & Data Science**: TensorFlow, Google TEXT ML Kit
 - **Cloud Platforms**: AWS, SSDNodes
